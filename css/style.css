@@ -1,0 +1,35 @@
+
+
+body {
+	background-color: LightGray;
+}
+
+.banner-nav { background-color: #fff; }
+.content {width: 60%; margin: 0 auto;}
+.content>h1 {text-align: center;}
+.content>h3 {text-align: center;}
+.banner-nav .content {height: 69px;}
+
+div { border: 1px solid Chocolate;
+}
+
+.links {float:right;}
+.links li {float: left; list-style-type: none;}
+.background {float:left;}
+.introduction { background-image: "images/karma-background.jpg"; 
+				height: 45.938rem; 
+				background-position: center bottom; 
+				background-repeat: no-repeat;
+				background-size: cover;
+			}
+.button{background-color : #ffa500; 
+		border-style: none ; 
+		border-radius: 4px;
+		padding: 1rem 1.5rem; 
+		text-align: center; 
+		text-shadow: none;
+		display: inline-block; 
+		font-size: 16px;
+		margin: 0 auto;
+		margin-top: 2rem;}
+.icons { height: 45rem;}
